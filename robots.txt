@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://friobrasilrj.com.br/sitemap.xml
